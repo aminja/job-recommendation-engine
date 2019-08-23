@@ -1,4 +1,4 @@
-# job-recommendation-engine
+# Job Recommendation Engine
 An engine to propose jobs based on background of applicants.
 
 Original data comes from the below link:\
