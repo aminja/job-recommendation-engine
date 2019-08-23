@@ -1,0 +1,17 @@
+# IDE ignores
+.idea
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Customized
+*.csv
