@@ -16,3 +16,4 @@ venv.bak/
 # Customized
 *.csv
 test.py
+test.ipynb
